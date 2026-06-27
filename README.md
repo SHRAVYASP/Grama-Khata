@@ -1,28 +1,37 @@
 # Grama-Khata
 
 ## Project Overview
-Grama-Khata is a digital village administration system that helps manage property records, tax details, and citizen information efficiently.
+Grama-Khata is a smart digital village administration system developed to manage property records, citizen information, and government services efficiently. The project also integrates Generative AI features to provide automated assistance and reminders.
 
 ## Features
-- Property registration
+- Property registration and management
 - Citizen record management
-- Tax management
+- Tax and document tracking
 - User authentication
-- Dashboard interface
+- Digital record maintenance
+- AI-powered assistance
+- WhatsApp reminder notifications
+
+## Generative AI Features
+- Automated WhatsApp reminders for important dates and notifications
+- AI-based assistance for users
+- Smart notification system
+- Improved communication with citizens
 
 ## Technologies Used
-- Python
-- Flask
-- HTML
-- CSS
-- JavaScript
-- SQLite/MySQL
+- Kotlin
+- Android Studio
+- Gradle
+- XML
+- Firebase / Database
+- Generative AI APIs
 
-## Modules
-- Admin Module
-- User Module
-- Property Management
-- Tax Management
+## Advantages
+- Reduces paperwork
+- Provides digital record management
+- Improves communication through WhatsApp reminders
+- Saves time and effort
+- Supports smart village administration
 
 ## Author
 Shravya SP
